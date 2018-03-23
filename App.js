@@ -10,7 +10,7 @@ import {
 
 const Home = () => (
     <div>
-        <p>This is a homepage</p>
+        <p>This is a homepage!</p>
     </div>
 );
 
